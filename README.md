@@ -185,7 +185,8 @@ Lcd_PortType ports[] = {GPIOA,GPIOA,GPIOA,GPIOA};
   Lcd_string(&lcd, "MOUNISH");
 ```
 ## Output screen shots of proteus  :
- 
+ ![PMC EX04  PHOTO](https://github.com/user-attachments/assets/53fff1f0-e39d-4569-812f-a14a373ccb40)
+
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
